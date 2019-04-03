@@ -1,0 +1,1 @@
+process.env.MONGODB_URI = 'mongodb://Admin:gabadmin777@ds031213.mlab.com:31213/grab-a-bite-db';
